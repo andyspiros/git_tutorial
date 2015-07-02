@@ -6,6 +6,7 @@
 
        INTEGER x,y,z
 
+       ! These are supposed to be integers!
        x = 1
        y = 1
 
